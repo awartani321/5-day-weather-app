@@ -5,7 +5,7 @@ This is a weather application that can retrieve weather highs and lows as well a
 ### Usage
  Please visit the link below to use the application.
  
-https://awartani321.github.io/weather-dashboard/
+https://awartani321.github.io/5-day-weather-app/
 
 ### Screenshot
 
@@ -17,4 +17,4 @@ https://github.com/awartani321/weather-dashboard.git
 
 ### Live application
 
-https://awartani321.github.io/weather-dashboard/
+https://awartani321.github.io/5-day-weather-app/
